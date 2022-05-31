@@ -39,4 +39,4 @@
 
 
 ---
-[1] 谈谈黎曼流形与视觉距离错觉问题，起点站，2018.12.31，https://blog.csdn.net/HXG2006/article/details/85457138
+[1] 起点站. 谈谈黎曼流形与视觉距离错觉问题. https://blog.csdn.net/HXG2006/article/details/85457138. 2018.12.31.
